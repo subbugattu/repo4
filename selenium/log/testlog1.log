@@ -1,0 +1,127 @@
+2018-10-28 16:55:27,089 [main] INFO facebook - browsrr launched succefully
+2018-10-28 16:55:27,372 [main] INFO facebook - browser maximised
+2018-10-28 16:55:36,490 [main] INFO facebook - email has been entered
+2018-10-28 16:55:37,330 [main] INFO facebook -  password has been entered
+2018-10-28 16:55:50,808 [main] INFO facebook - login butten clicked
+2018-10-28 16:56:56,734 [main] INFO facebook - browsrr launched succefully
+2018-10-28 16:56:57,343 [main] INFO facebook - browser maximised
+2018-10-28 16:57:05,646 [main] INFO facebook - email has been entered
+2018-10-28 16:57:06,622 [main] INFO facebook -  password has been entered
+2018-10-28 16:57:22,149 [main] INFO facebook - login butten clicked
+2018-10-29 14:39:13,578 [main] INFO fb_login - browser launched
+2018-10-29 14:39:13,832 [main] INFO fb_login - browser maximised
+2018-10-29 14:39:22,034 [main] INFO fb_login - url has been entered
+2018-10-29 14:39:22,415 [main] INFO fb_login - username has been entered
+2018-10-29 14:39:23,369 [main] INFO fb_login - password has been entered
+2018-10-29 14:39:44,445 [main] INFO click - login button clicked
+2018-10-29 14:41:11,643 [main] INFO fb_login - browser launched
+2018-10-29 14:41:11,818 [main] INFO fb_login - browser maximised
+2018-10-29 14:41:24,524 [main] INFO fb_login - url has been entered
+2018-10-29 14:41:24,785 [main] INFO fb_login - username has been entered
+2018-10-29 14:41:25,719 [main] INFO fb_login - password has been entered
+2018-10-29 14:41:40,122 [main] INFO click - login button clicked
+2018-10-29 14:44:33,866 [main] INFO fb_login - browser launched
+2018-10-29 14:44:34,098 [main] INFO fb_login - browser maximised
+2018-10-29 14:44:42,969 [main] INFO fb_login - url has been entered
+2018-10-29 14:44:43,212 [main] INFO fb_login - username has been entered
+2018-10-29 14:44:44,106 [main] INFO fb_login - password has been entered
+2018-10-29 14:44:55,183 [main] INFO click - login button clicked
+2018-10-29 14:45:30,597 [main] INFO fb_login - browser launched
+2018-10-29 14:45:30,707 [main] INFO fb_login - browser maximised
+2018-10-29 14:45:37,611 [main] INFO fb_login - url has been entered
+2018-10-29 14:45:37,939 [main] INFO fb_login - username has been entered
+2018-10-29 14:45:38,752 [main] INFO fb_login - password has been entered
+2018-10-29 14:45:50,153 [main] INFO click - login button clicked
+2018-10-29 14:46:53,159 [main] INFO fb_login - browser launched
+2018-10-29 14:46:53,417 [main] INFO fb_login - browser maximised
+2018-10-29 14:47:11,705 [main] INFO fb_login - url has been entered
+2018-10-29 14:47:11,999 [main] INFO fb_login - username has been entered
+2018-10-29 14:47:12,865 [main] INFO fb_login - password has been entered
+2018-10-29 14:47:25,557 [main] INFO fb_login - login button clicked
+2018-10-29 14:49:19,233 [main] INFO fb_login - browser launched
+2018-10-29 14:49:19,706 [main] INFO fb_login - browser maximised
+2018-10-29 14:49:31,427 [main] INFO fb_login - url has been entered
+2018-10-29 14:49:31,686 [main] INFO fb_login - username has been entered
+2018-10-29 14:49:32,691 [main] INFO fb_login - password has been entered
+2018-10-29 14:49:47,633 [main] INFO fb_login - login button clicked
+2018-10-29 14:51:06,962 [main] INFO fb_login - browser launched
+2018-10-29 14:51:07,419 [main] INFO fb_login - browser maximised
+2018-10-29 14:51:20,280 [main] INFO fb_login - url has been entered
+2018-10-29 14:51:20,520 [main] INFO fb_login - username has been entered
+2018-10-29 14:51:21,438 [main] INFO fb_login - password has been entered
+2018-10-29 14:51:35,374 [main] INFO fb_login - login button clicked
+2018-10-29 14:51:37,965 [main] INFO fb_login - browser exited
+2018-10-29 15:05:47,385 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:06:00,118 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:06:00,266 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:06:00,808 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:06:04,226 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:06:06,008 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:06:06,528 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:17:28,127 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:17:36,530 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:17:36,656 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:17:36,853 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:17:39,007 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:17:39,253 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:17:39,591 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:17:40,408 [main] INFO facebookRegistration - day is selected
+2018-10-29 15:17:40,812 [main] INFO facebookRegistration - month is selected
+2018-10-29 15:17:41,100 [main] INFO facebookRegistration - year is selected
+2018-10-29 15:18:12,042 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:18:20,894 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:18:21,059 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:18:21,331 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:18:22,415 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:18:22,720 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:18:23,096 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:20:01,048 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:20:19,312 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:20:19,469 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:20:19,663 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:20:21,517 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:20:21,793 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:20:22,137 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:20:23,014 [main] INFO facebookRegistration - day is selected
+2018-10-29 15:20:23,374 [main] INFO facebookRegistration - month is selected
+2018-10-29 15:20:23,688 [main] INFO facebookRegistration - year is selected
+2018-10-29 15:22:30,432 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:22:40,061 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:22:40,199 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:22:40,419 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:22:41,643 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:22:41,931 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:22:42,320 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:27:32,234 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:27:42,576 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:27:42,698 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:27:42,941 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:27:43,758 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:27:44,027 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:27:44,386 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:28:31,621 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:28:38,486 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:28:38,630 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:28:38,878 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:28:40,026 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:28:40,380 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:28:40,903 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:31:08,026 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:31:17,373 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:31:17,550 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:31:17,743 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:31:18,744 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:31:18,997 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:31:19,317 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:33:13,428 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:33:27,105 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:33:27,245 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:33:27,459 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:33:28,226 [main] INFO facebookRegistration - last name has been entered
+2018-10-29 15:33:28,565 [main] INFO facebookRegistration - email has bee entered
+2018-10-29 15:33:28,973 [main] INFO facebookRegistration - password has been entered
+2018-10-29 15:36:49,734 [main] INFO facebookRegistration - browser launched
+2018-10-29 15:37:00,575 [main] INFO facebookRegistration - url hasbeen entered
+2018-10-29 15:37:00,725 [main] INFO facebookRegistration - maximised the window
+2018-10-29 15:37:00,920 [main] INFO facebookRegistration - first name has been entered
+2018-10-29 15:37:01,695 [main] INFO facebookRegistration - last name has been entered
