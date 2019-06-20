@@ -2,16 +2,18 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite" parallel="tests">
   <test  name="Firefox Test">
-  <parameter name="browser" value="firefox"></parameter>
+  <parameter name="Username" value="subbu"></parameter>
+  <parameter name="Password" value="8121720209"></parameter>
     <classes>
-      <class name="testNg.multibrowser"/>
+      <class name="testNg.parameters"/>
+      <class name="GroupTest.GroupExamples"/>
+      <class name="Parameterization.parameters"/>
+      
+      
     </classes>
   </test> <!-- Test -->
   
-  <test name="Chrome Test">
-  <parameter name="browser" value="chrome"></parameter>
-  <classes>
-  <class name="testNg.multibrowser"></class>
-  </classes>
-  </test>
-</suite> <!-- Suite -->
+  </suite>
+  
+ 
+

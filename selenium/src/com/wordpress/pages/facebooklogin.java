@@ -17,13 +17,7 @@ public class facebooklogin
 		this.driver=driver;
 		
 	}
-	
-	public void loginTofacebook(String userid,String pass)
-	{
-		
-		
-	}
-	
+
 	public void typeusername(String uid) {
 		driver.findElement(username).sendKeys(uid);
 	}

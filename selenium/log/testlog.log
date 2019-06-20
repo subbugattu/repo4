@@ -130,3 +130,65 @@
 2018-11-16 12:13:15,749 - facebook -INFO - email has been entered
 2018-11-16 12:13:16,059 - facebook -INFO -  password has been entered
 2018-11-16 12:13:20,975 - facebook -INFO - login butten clicked
+2018-12-03 10:06:57,366 - fb_login -INFO - browser launched
+2018-12-03 10:06:59,740 - fb_login -INFO - browser maximised
+2018-12-27 12:15:51,392 - fb_login -INFO - browser launched
+2018-12-27 12:15:51,712 - fb_login -INFO - browser maximised
+2018-12-27 12:16:08,225 - fb_login -INFO - url has been entered
+2018-12-27 12:16:08,487 - fb_login -INFO - username has been entered
+2018-12-27 12:16:09,536 - fb_login -INFO - password has been entered
+2018-12-27 12:16:12,726 - fb_login -INFO - login button clicked
+2018-12-27 12:16:14,046 - fb_login -INFO - browser exited
+2019-03-25 09:53:08,703 - facebook -INFO - browser launched succesfully
+2019-03-25 09:53:08,990 - facebook -INFO - maximised the browser window
+2019-03-25 09:53:14,927 - facebook -INFO - url has been entered
+2019-03-25 09:53:14,931 - facebook -INFO - action class taken
+2019-03-25 09:53:15,405 - facebook -INFO - locate the required elemnet
+2019-03-25 09:53:18,720 - facebook -INFO - locate the perticular element from the list
+2019-03-25 09:53:22,720 - facebook -INFO - close the browser driver
+2019-03-25 09:57:06,746 - facebook -INFO - browser launched succesfully
+2019-03-25 09:57:07,164 - facebook -INFO - maximised the browser window
+2019-03-25 09:57:13,063 - facebook -INFO - url has been entered
+2019-03-25 09:57:13,071 - facebook -INFO - action class taken
+2019-03-25 09:57:13,581 - facebook -INFO - locate the required elemnet
+2019-03-25 09:57:16,939 - facebook -INFO - locate the perticular element from the list
+2019-03-25 09:57:18,487 - facebook -INFO - close the browser driver
+2019-03-25 10:00:53,473 - facebook -INFO - browser launched succesfully
+2019-03-25 10:00:53,561 - facebook -INFO - maximised the browser window
+2019-03-25 10:00:58,967 - facebook -INFO - url has been entered
+2019-03-25 10:00:58,971 - facebook -INFO - action class taken
+2019-03-25 10:00:59,467 - facebook -INFO - locate the required elemnet
+2019-03-25 10:02:03,121 - facebook -INFO - browser launched succesfully
+2019-03-25 10:02:03,341 - facebook -INFO - maximised the browser window
+2019-03-25 10:02:11,449 - facebook -INFO - url has been entered
+2019-03-25 10:02:11,458 - facebook -INFO - action class taken
+2019-03-25 10:02:12,081 - facebook -INFO - locate the required elemnet
+2019-04-02 09:53:39,516 - facebook -INFO - browser launched succesfully
+2019-04-02 09:53:39,919 - facebook -INFO - maximised the browser window
+2019-04-02 09:53:45,620 - facebook -INFO - url has been entered
+2019-04-02 09:53:45,626 - facebook -INFO - action class taken
+2019-04-02 09:53:46,235 - facebook -INFO - locate the required elemnet
+2019-04-02 09:53:49,607 - facebook -INFO - locate the perticular element from the list
+2019-04-02 09:53:51,635 - facebook -INFO - close the browser driver
+2019-04-13 20:59:00,289 - facebook -INFO - browser launched succefully
+2019-04-13 20:59:01,798 - facebook -INFO - browser maximised
+2019-04-14 14:15:08,183 - facebook -INFO - browser launched succefully
+2019-04-14 14:15:10,864 - facebook -INFO - browser maximised
+2019-04-14 14:16:28,119 - facebook -INFO - email has been entered
+2019-04-14 14:16:28,282 - facebook -INFO -  password has been entered
+2019-04-14 14:16:55,860 - facebook -INFO - login butten clicked
+2019-04-14 14:19:56,599 - facebook -INFO - browser launched succefully
+2019-04-14 14:19:56,748 - facebook -INFO - browser maximised
+2019-04-14 14:21:04,068 - facebook -INFO - email has been entered
+2019-04-14 14:21:09,357 - facebook -INFO -  password has been entered
+2019-04-14 14:21:16,168 - facebook -INFO - login butten clicked
+2019-04-26 08:54:36,790 - facebook -INFO - browser launched succefully
+2019-04-26 08:54:38,501 - facebook -INFO - browser maximised
+2019-04-26 08:54:50,349 - facebook -INFO - browser launched succefully
+2019-04-26 08:54:50,522 - facebook -INFO - browser maximised
+2019-04-26 08:55:27,289 - facebook -INFO - email has been entered
+2019-04-26 08:55:28,160 - facebook -INFO -  password has been entered
+2019-04-26 08:55:28,847 - facebook -INFO - email has been entered
+2019-04-26 08:55:29,775 - facebook -INFO -  password has been entered
+2019-04-26 08:55:36,167 - facebook -INFO - login butten clicked
+2019-04-26 08:55:38,179 - facebook -INFO - login butten clicked
