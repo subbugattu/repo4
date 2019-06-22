@@ -1,0 +1,19 @@
+
+<suite name="suite">
+
+<test name="TestNg">
+<classes>
+<class name="testNg.facebookRgestration"/>
+
+</classes>
+<parameter name="username" value="subbugattu/"></parameter>
+
+
+<classes>
+
+<class name="TestNG.parameters"></class>
+</classes>
+
+</test>
+
+</suite>
